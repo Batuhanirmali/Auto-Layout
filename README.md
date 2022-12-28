@@ -1,3 +1,4 @@
+
 ## 🐶 The Doggy Time
 **I started The Doggy Time app to learn how to upload apps to the AppStore to consolidate what I've learned so far and create a good reference in my portfolio, and I love dogs. Therefore, in my application, I wanted to provide information about useful vegetables and fruits that dogs can eat, dog name suggestions and purposeful dog breeds that you can keep at home or in your garden.**
 
@@ -37,11 +38,24 @@
 -  **[Swift (UIKIT)](https://www.swift.org)**
 - **[Cocoa Pods, ProgressHUD](https://github.com/relatedcode/ProgressHUD)**
 - **[Kingfisher](https://github.com/onevcat/Kingfisher)**
+- **[Glitch-Dogtime(API)](https://dogtime.glitch.me/)**
 
-## 📝 Next Update 
+## 🦴 Dogtime API
+**Since there is no API that fits the project, I revised the ready-made Api myself, and you can use it in other projects. I've searched a lot too, I wish I could find a ready API. :)**
+- https://dogtime.glitch.me/
+- /breed-categories
+- /dogs/:categoryId
+- ./categories.json
+- ./populars.json
+- ./downCategories.json
+- ./dogs.json
+<img src="https://user-images.githubusercontent.com/103661354/209871565-882669fd-a382-4e36-9525-a1af69afd478.png" width="900" height="530" />
+
+## 📝 Next Update 1.0.1
 - Request review
 - Change display name
 - Bugs and fixing
+- Change Launchscreen Title
 
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/103661354/209570693-3359fbf8-1861-4497-82f4-c776f8dfd281.png" width="250" height="530" />
@@ -51,9 +65,4 @@
 <img src="https://user-images.githubusercontent.com/103661354/209570686-ffe982bb-06ed-43bb-a824-132498152cbe.png" width="250" height="530" />
 <img src="https://user-images.githubusercontent.com/103661354/209570689-161fab4d-0134-48b6-91c7-fa880cbe34b4.png" width="250" height="530" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/103661354/209871565-882669fd-a382-4e36-9525-a1af69afd478.png" width="900" height="530" />
-
-
-
 
